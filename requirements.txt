@@ -1,0 +1,7 @@
+torch
+datasets
+pandas 
+numpy 
+plotly
+scipy
+kagglehub
