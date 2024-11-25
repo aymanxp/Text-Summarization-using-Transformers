@@ -5,3 +5,9 @@ numpy
 plotly
 scipy
 kagglehub
+statsmodels
+scikit-learn
+transformers
+evaluate
+rouge_score
+nltk
